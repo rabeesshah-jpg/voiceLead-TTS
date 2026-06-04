@@ -62,3 +62,29 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local/env files
+.venv/
+.env
+.env.*
+__pycache__/
+*.pyc
+
+# Generated files
+*.wav
+*.mp3
+*.log
+outputs/
+
+# Archives / binaries
+*.tgz
+*.zip
+
+# Model/cache files
+.cache/
+models/
+checkpoints/
+*.onnx
+*.pt
+*.pth
+*.safetensors
