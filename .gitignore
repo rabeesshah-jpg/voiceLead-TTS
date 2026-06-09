@@ -73,8 +73,12 @@ __pycache__/
 # Generated files
 *.wav
 *.mp3
+*.m4a
+*.webm
 *.log
 outputs/
+uploads/
+data/voices/
 
 # Archives / binaries
 *.tgz
